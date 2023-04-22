@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan-with-Aditya/static/css/main.509afa73.css",
+    "main.js": "/Plan-with-Aditya/static/js/main.5289557c.js",
+    "index.html": "/Plan-with-Aditya/index.html",
+    "main.509afa73.css.map": "/Plan-with-Aditya/static/css/main.509afa73.css.map",
+    "main.5289557c.js.map": "/Plan-with-Aditya/static/js/main.5289557c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509afa73.css",
+    "static/js/main.5289557c.js"
+  ]
+}
